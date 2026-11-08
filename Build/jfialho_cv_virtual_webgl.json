@@ -1,0 +1,12 @@
+{
+"companyName": "jfialho",
+"productName": "JFialho | CVvirtual",
+"dataUrl": "jfialho_cv_virtual_webgl.data.unityweb",
+"wasmCodeUrl": "jfialho_cv_virtual_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "jfialho_cv_virtual_webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
